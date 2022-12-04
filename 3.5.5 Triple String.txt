@@ -1,0 +1,6 @@
+public String tripleString(String word)
+{
+    String exc = "";
+    return word + exc + word + exc + word;
+
+}

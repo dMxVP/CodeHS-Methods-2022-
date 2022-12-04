@@ -1,0 +1,5 @@
+public String teenTalk(String sentence)
+{
+    String newSentence = sentence.replace(" "," like ");
+    return newSentence;
+}

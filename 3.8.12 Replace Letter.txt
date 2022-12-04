@@ -1,0 +1,8 @@
+public String replaceLetter(String word, char letterToReplace, char replacingLetter)
+{
+    String A = Character.toString(letterToReplace);
+    String B = Character.toString(replacingLetter);
+    String newSentence = word.replace(A,B);
+    return newSentence;
+    
+}

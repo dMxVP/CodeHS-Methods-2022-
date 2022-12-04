@@ -1,0 +1,6 @@
+public double fahrenheitToCelsius(double degrees)
+{
+    double tempF = (double) degrees;
+    double tempC = (5.0/9)*(tempF-32);
+    return tempC;
+}

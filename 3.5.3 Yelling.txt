@@ -1,0 +1,5 @@
+public String yell(String statement)
+{
+    String yelling = statement.toUpperCase();
+    return yelling;
+}

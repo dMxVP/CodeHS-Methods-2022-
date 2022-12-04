@@ -1,0 +1,6 @@
+public double average (double x, double y)
+{ 
+    double num = x + y;
+    double result = num/2;
+    return result;
+}
